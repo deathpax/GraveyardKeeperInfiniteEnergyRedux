@@ -1,0 +1,11 @@
+{
+  "Id": "InfiniteEnergyRedux",
+  "DisplayName": "Infinite Energy Redux",
+  "Author": "Death~Pax",
+  "Version": "1.1",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "InfiniteEnergyRedux.dll",
+  "EntryMethod": "com.deathpax.mods.GraveyardKeeper.InfiniteEnergyRedux.MainPatcher.Patch",
+  "Config": {}
+}
